@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = LMS_Entity
-build_property.ProjectDir = C:\Users\Pankaj.PANKAJ-PC\source\repos\Cg_LPU\LearningManagementSystem\LMS_Entity\
+build_property.RootNamespace = LMS_BL
+build_property.ProjectDir = C:\Users\Pankaj.PANKAJ-PC\source\repos\Cg_LPU\LearningManagementSystem\LMS_BL\
