@@ -1,0 +1,12 @@
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\bin\Debug\net8.0\LMS_DAL.deps.json
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\bin\Debug\net8.0\LMS_DAL.dll
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\bin\Debug\net8.0\LMS_DAL.pdb
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\LMS_DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\LMS_DAL.AssemblyInfoInputs.cache
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\LMS_DAL.AssemblyInfo.cs
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\LMS_DAL.csproj.CoreCompileInputs.cache
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\LMS_DAL.sourcelink.json
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\LMS_DAL.dll
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\refint\LMS_DAL.dll
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\LMS_DAL.pdb
+F:\Cg_LPU\DemoProjectForGitRepo\LearningManagementSystem\LMS_DAL\obj\Debug\net8.0\ref\LMS_DAL.dll
