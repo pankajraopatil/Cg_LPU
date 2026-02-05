@@ -18,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +40,7 @@
               "RelativeDocumentMoniker": "LMS_DAL\\IRepo.cs",
               "ToolTip": "F:\\Cg_LPU\\DemoProjectForGitRepo\\LearningManagementSystem\\LMS_DAL\\IRepo.cs",
               "RelativeToolTip": "LMS_DAL\\IRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T06:11:33.872Z",
               "EditorCaption": ""

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qDsvWM3MN8U=",
+  "dgSpecHash": "DHD4zDCPWlhOsKMUq5xF++XR9qKLjQ6FQXSGYhV9MdhTz7NCq/y6Rxpvz/ks7dF3mA4JMiC+k8UVTHvhe0qZ8w==",
   "success": true,
   "projectFilePath": "F:\\Cg_LPU\\DemoProjectForGitRepo\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Pankaj.PANKAJ-PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
-    "C:\\Users\\Pankaj.PANKAJ-PC\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
-    "C:\\Users\\Pankaj.PANKAJ-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
