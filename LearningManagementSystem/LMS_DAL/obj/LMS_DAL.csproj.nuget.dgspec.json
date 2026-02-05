@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitPrac\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj": {}
+    "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj": {}
   },
   "projects": {
-    "C:\\GitPrac\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj": {
+    "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitPrac\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj",
+        "projectUniqueName": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj",
         "projectName": "LMS_DAL",
-        "projectPath": "C:\\GitPrac\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj",
-        "packagesPath": "C:\\Users\\rajpo\\.nuget\\packages\\",
-        "outputPath": "C:\\GitPrac\\LearningManagementSystem\\LMS_DAL\\obj\\",
+        "projectPath": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_DAL\\LMS_DAL.csproj",
+        "packagesPath": "C:\\Users\\Sathwika\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rajpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sathwika\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

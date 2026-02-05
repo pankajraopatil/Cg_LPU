@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\LPU_UI\\LPU_UI.csproj": {}
+    "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LPU_UI\\LPU_UI.csproj": {}
   },
   "projects": {
-    "D:\\.net\\LPU_UI\\LPU_UI.csproj": {
+    "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LPU_UI\\LPU_UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\LPU_UI\\LPU_UI.csproj",
+        "projectUniqueName": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LPU_UI\\LPU_UI.csproj",
         "projectName": "LPU_UI",
-        "projectPath": "D:\\.net\\LPU_UI\\LPU_UI.csproj",
+        "projectPath": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LPU_UI\\LPU_UI.csproj",
         "packagesPath": "C:\\Users\\Sathwika\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\LPU_UI\\obj\\",
+        "outputPath": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LPU_UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sathwika\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_Entity\\LMS_Entity.csproj",
-      "projectName": "LMS_Entity",
-      "projectPath": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_Entity\\LMS_Entity.csproj",
+      "projectUniqueName": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_BL\\LMS_BL.csproj",
+      "projectName": "LMS_BL",
+      "projectPath": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_BL\\LMS_BL.csproj",
       "packagesPath": "C:\\Users\\Sathwika\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_Entity\\obj\\",
+      "outputPath": "D:\\.net\\Cg_LPU\\LearningManagementSystem\\LMS_BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sathwika\\AppData\\Roaming\\NuGet\\NuGet.Config",
